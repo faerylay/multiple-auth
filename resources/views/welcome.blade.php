@@ -22,6 +22,8 @@
             </div>
       @endif
    </div>
-   <div></div>
+   <div class="text-center">
+      Welcome 
+   </div>
 </body>
 </html>
